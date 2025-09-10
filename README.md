@@ -40,5 +40,3 @@ Author
 
 Nitish Shakya
 
-```bash
-python timer.py
